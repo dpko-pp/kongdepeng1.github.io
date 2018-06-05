@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎访问孔得朋 副教授课题组 Welcome to Kong's Group
 
 You can use the [editor on GitHub](https://github.com/dpko-pp/kongdepeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
